@@ -14,3 +14,5 @@
 
 
 
+- 🌱 I’m currently learning React!
+- 👯 I’m looking to collaborate more on open-source projects.
