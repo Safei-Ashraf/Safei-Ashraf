@@ -16,3 +16,9 @@
 
 - 🌱 I’m currently learning React!
 - 👯 I’m looking to collaborate more on open-source projects.
+
+
+<a href="mailto:safei.ashraf@gmail.com?subject=Pair%20program%20with%20me" title="Pair program with me!">
+  <img  src="http://pairprogramwith.me/badge.png"
+        alt="Pair program with me!" />
+</a>
