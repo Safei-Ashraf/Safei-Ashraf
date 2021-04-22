@@ -1,4 +1,4 @@
-[![Social banner for Safei](https://github.com/Safei-Ashraf/Safei-Ashraf/raw/master/assets/BackgroundSVG.svg)](https://safei-ashraf.netlify.app/)
+[![Social banner for Safei](https://github.com/Safei-Ashraf/Safei-Ashraf/raw/master/assets/BackgroundSVG.svg =250x)](https://safei-ashraf.netlify.app/)
 <h1 align='center'>  Front-End dev going to " to infinity and beyond!" 🚀<h1/>
 
 
