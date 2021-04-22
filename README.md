@@ -13,12 +13,10 @@
 [![Safei Ashraf.com](https://img.shields.io/badge/-Website-blue?style=for-the-badge&logo=react&logoColor=white)](https://safei-ashraf.netlify.app/)
 
 
-
-- 🌱 I’m currently learning React!
 - 👯 I’m looking to collaborate more on open-source projects.
 
 
 <a href="mailto:safei.ashraf@gmail.com?subject=Pair%20program%20with%20me" title="Pair program with me!">
-  <img  src="http://pairprogramwith.me/badge.png"
+  <img  src="http://pairprogramwith.me/badge.png" width="100"
         alt="Pair program with me!" />
 </a>
