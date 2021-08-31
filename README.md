@@ -26,7 +26,7 @@
   <br />
   <br />
   
- [![GitHub Streak](https://github-readme-stats.vercel.app/api?username=safei-ashraf&show_icons=true&theme=dark&hide_border=false&properties=ring)](https://git.io/streak-stats)
+ [![GitHub Streak](https://github-readme-stats.vercel.app/api?username=safei-ashraf&show_icons=true&theme=vision-friendly-dark&hide_border=false&properties=ring)](https://git.io/streak-stats)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Safei-Ashraf&theme=neon-dark)](https://git.io/streak-stats)
 
