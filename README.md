@@ -1,7 +1,36 @@
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Safei-Ashraf&theme=dark&hide_border=true)](https://git.io/streak-stats)
+<div align="center">
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg"
+    width="60px"
+  />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg"
+    width="60px"
+    />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg"
+    width="60px"
+  />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg"
+    width="60px"
+  />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"
+    width="60px"
+  />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg"
+    width="60px"
+  />
+  <br />
+  <br />
+  
+ [![GitHub Streak](https://github-readme-stats.vercel.app/api?username=safei-ashraf&show_icons=true&theme=dark&hide_border=false&properties=ring)](https://git.io/streak-stats)
 
-[![Social banner for Safei](https://github.com/Safei-Ashraf/Safei-Ashraf/raw/master/assets/BackgroundSVG.svg)](https://safei-ashraf.netlify.app/)
-<h1 align='center'>  Front-End dev going to " to infinity and beyond!" 🚀<h1/>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Safei-Ashraf&theme=neon-dark)](https://git.io/streak-stats)
+
+<h1 align='center'>  Front-End dev "to infinity and beyond!" 🚀<h1/>
 
 
 
@@ -15,10 +44,12 @@
 [![Safei Ashraf.com](https://img.shields.io/badge/-Website-blue?style=for-the-badge&logo=react&logoColor=white)](https://safei-ashraf.netlify.app/)
 
 
-- 👯 I’m looking to collaborate more on open-source projects.
+** - 👯 I’m looking to collaborate more on open-source projects.
 
 
 <a href="mailto:safei.ashraf@gmail.com?subject=Pair%20program%20with%20me" title="Pair program with me!">
   <img  src="http://pairprogramwith.me/badge.png" width="100"
         alt="Pair program with me!" />
 </a>
+  
+  </div>
