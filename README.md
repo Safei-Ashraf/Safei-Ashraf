@@ -1,3 +1,5 @@
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Safei-Ashraf&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
 [![Social banner for Safei](https://github.com/Safei-Ashraf/Safei-Ashraf/raw/master/assets/BackgroundSVG.svg)](https://safei-ashraf.netlify.app/)
 <h1 align='center'>  Front-End dev going to " to infinity and beyond!" 🚀<h1/>
 
