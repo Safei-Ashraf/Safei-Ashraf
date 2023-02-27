@@ -49,6 +49,7 @@
 <a href="mailto:safei.ashraf@gmail.com?subject=Pair%20program%20with%20me" title="Pair program with me!">
   <!--<img  src="http://pairprogramwith.me/badge.png" width="100"
         alt="Pair program with me!" />-->
+  Pair program with me!
 </a>
   
   </div>
